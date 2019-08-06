@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "fullName": "Jesus Sims",
+    "avatar": "https://randomuser.me/api/portraits/men/81.jpg",
+    "organization": "",
+    "title": "Fullstack Developer",
+    "phones": {
+      "mobile": "0797-568-317",
+      "home": "025 6228 2865"
+    },
+    "email": "jesus.sims@example.com",
+    "address": "8137 st. john’s road, wakefield",
+    "birthdate": 1563560545000,
+    "createdDate": 1563560545000,
+    "updatedDate": 1563560545000,
+    "favourite": true,
+    "labels": [
+      {
+        "title": "friends",
+        "color": "#FF0000"
+      },
+      {
+        "title": "futbol",
+        "color": "#FF00FF"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "fullName": "Oya özdoğan",
+    "avatar": "https://randomuser.me/api/portraits/thumb/women/37.jpg",
+    "organization": null,
+    "phones": {
+      "home": "(234)-810-3370",
+      "mobile": "(821)-575-9740"
+    },
+    "email": "ya.özdoğan@example.com",
+    "address": "5738 abanoz sk, iğdır",
+    "birthdate": 1563560545000,
+    "createdDate": 1563560545000,
+    "updatedDate": 1563560545000,
+    "favourite": true,
+    "labels": [
+      {
+        "title": "family",
+        "color": "#FF0000"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "fullName": "Lloyd Mcdonalid",
+    "avatar": "https://randomuser.me/api/portraits/men/61.jpg",
+    "organization": null,
+    "phones": {
+      "home": "031-646-2824",
+      "mobile": "081-151-0483"
+    },
+    "email": "lloyd.mcdonalid@example.com",
+    "address": "2842 the green, Portlaoise",
+    "birthdate": 1563560545000,
+    "createdDate": 1563560545000,
+    "updatedDate": 1563560545000,
+    "favourite": true,
+    "labels": [
+      {
+        "title": "amigos",
+        "color": "#FF0000"
+      },
+      {
+        "title": "futbol",
+        "color": "#FF00FF"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "fullName": "Aria Jones",
+    "avatar": "https://randomuser.me/api/portraits/med/women/30.jpg",
+    "organization": null,
+    "phones": {
+      "home": "(120)-182-6175",
+      "mobile": "(899)-824-4463"
+    },
+    "email": "aria.jones@example.com",
+    "address": "5200 gladstone road, Blenheim",
+    "birthdate": 1563560545000,
+    "createdDate": 1563560545000,
+    "updatedDate": 1563560545000,
+    "favourite": false,
+    "labels": [
+      {
+        "title": "amigos",
+        "color": "#FF0000"
+      },
+      {
+        "title": "futbol",
+        "color": "#FF00FF"
+      }
+    ]
+  }
+]
